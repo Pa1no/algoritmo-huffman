@@ -1,0 +1,12 @@
+->erro: codigos nao calculados, use o comando calc
+->erro: tabela de frequencia vazia
+->->->erro: codigos nao calculados, use o comando calc
+->->erro: a string possui caractere sem codigo na tabela
+->erro: sequencia de bits invalida
+->BBBA
+->->erro: codigos nao calculados, use o comando calc
+->->erro: tabela de frequencia vazia
+->erro: use add <caractere> <frequencia>
+->erro: frequencia invalida
+->erro: comando desconhecido
+->

@@ -1,0 +1,7 @@
+add D 1
+add B 1
+add C 2
+add A 3
+calc
+print
+exit

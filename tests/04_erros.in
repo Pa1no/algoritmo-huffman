@@ -1,0 +1,17 @@
+cod A
+calc
+add A 3
+add B 1
+cod A
+calc
+cod AC
+dec 2
+dec 0001
+add B 7
+print
+clear
+calc
+add Z
+add Z -1
+foo
+exit
